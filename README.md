@@ -1,3 +1,5 @@
+This project was conducted in PostgreSQL environment using pgAdmin4 for the Career Foundry Data Analytics course Spring 2023
+
 # rockbuster-biz-analysis
 
 ## Project Introduction
