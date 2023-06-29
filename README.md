@@ -1,6 +1,6 @@
 # rockbuster-biz-analysis
 
-## Project Introductin
+## Project Introduction
 Rockbuster Stealth LLC, a renowned movie rental enterprise that previously operated physical outlets globally, is currently confronted with intense competition from streaming platforms like Netflix and Amazon Prime. In order to maintain its competitive edge, the management team at Rockbuster Stealth is devising a strategic plan to leverage their existing movie licenses and introduce an online video rental service. To facilitate this initiative, the Business Intelligence (BI) division at Rockbuster Stealth is diligently working on the launch strategy for the new online video service. The primary objective entails the seamless integration of all Rockbuster's data into PostgreSQL followed by employing SQL to meticulously scrutinize the data and address the key questions and objectives.
  
  ## Key Questions and Objectives
