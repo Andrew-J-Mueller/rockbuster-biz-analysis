@@ -20,7 +20,7 @@ Data querying and manipulation was performed in the pgAdmin4 environment.
 ## Deliverables
 - Data Dictionary as .pdf
 - Slide deck presentation created in Microsoft PowerPoint, as .pdf
-- Methodology presented in Excel, as .xlsx
+- Methodology as queries and output presented in Excel, as .xlsx
 - Charts created with Tableau are optimized for large screen viewing [here](https://public.tableau.com/app/profile/andrew.mueller)
 
 
