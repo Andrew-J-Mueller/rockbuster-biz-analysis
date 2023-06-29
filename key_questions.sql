@@ -1,6 +1,6 @@
 
 
---key questions and objectives:
+--key questions and objectives listed with associated sql query run to extract the data used in tableau:
 
 --1a.	Which movies contributed the most to revenue gain? 
 
