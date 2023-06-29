@@ -12,7 +12,7 @@ Rockbuster Stealth LLC, a renowned movie rental enterprise that previously opera
 
  
  ## Data 
-The [Data Set](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) was downloaded as a .tar file
+The [data set](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) was downloaded as a .tar file
 The data was loaded into the PostgreSQL. Data querying and manipulation was performed in the pgAdmin4 environment. 
 
 
@@ -20,7 +20,6 @@ The data was loaded into the PostgreSQL. Data querying and manipulation was perf
 - Data Dictionary as .pdf
 - Slide deck presentation created in Microsoft PowerPoint, as .pdf
 - Methodology presented in Excel, as .xlsx
-- Charts created with Tableau are optimized for large screen viewing [here](https://public.tableau.com/app/profile/andrew.mueller)https://public.tableau.com/app/profile/andrew.mueller)
-
+- Charts created with Tableau are optimized for large screen viewing [here](https://public.tableau.com/app/profile/andrew.mueller)
 
 
