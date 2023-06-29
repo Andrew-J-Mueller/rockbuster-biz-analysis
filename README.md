@@ -20,7 +20,7 @@ The data was loaded into the PostgreSQL. Data querying and manipulation was perf
 - Data Dictionary as .pdf
 - Slide deck presentation created in Microsoft PowerPoint, as .pdf
 - Methodology presented in Excel, as .xlsx
-- Charts created with Tableau are optimized for large screen viewing [here.] (https://public.tableau.com/app/profile/andrew.mueller)https://public.tableau.com/app/profile/andrew.mueller)
+- Charts created with Tableau are optimized for large screen viewing [here](https://public.tableau.com/app/profile/andrew.mueller)https://public.tableau.com/app/profile/andrew.mueller)
 
 
 
